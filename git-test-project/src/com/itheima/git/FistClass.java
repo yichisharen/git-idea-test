@@ -12,7 +12,13 @@ public class FistClass {
         System.out.println("hello git project！！！！！！！！！");
         System.out.println("hello git project！！！！！！！！！");
         System.out.println("hello git project！！！！！！！！！");
-        System.out.println("hello git project！！！！！！！！！");
-        System.out.println("hello git project！！！！！！！！！");
+        System.out.println("hello git project.。。。。。。。。。");
+        System.out.println("hello git project.。。。。。。。。。");
+        System.out.println("hello git project.。。。。。。。。。");
+        System.out.println("hello git project.。。。。。。。。。");
+        System.out.println("hello git project.。。。。。。。。。");
+        System.out.println("hello git project.。。。。。。。。。");
+        System.out.println("hello git project.。。。。。。。。。");
+        System.out.println("hello git project.。。。。。。。。。");
     }
 }
